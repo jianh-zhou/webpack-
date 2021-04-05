@@ -1,0 +1,7 @@
+{
+  "complierOptions":{
+    "module":"ES2015",
+    "target":"ES2015",
+    "strict":true
+  }
+}
