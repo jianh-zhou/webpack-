@@ -1,0 +1,10 @@
+#box1{
+  width: 200px;
+  height: 100px;
+  background-color: #333;
+}
+#box{
+  width: 800px;
+  height: 100px;
+  background-color: pink;
+}

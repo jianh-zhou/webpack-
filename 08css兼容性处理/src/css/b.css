@@ -1,0 +1,10 @@
+#box{
+  width: 800px;
+  height: 100px;
+  background-color: pink;
+}
+#app{
+  display: flex;
+  justify-content: space-around;
+  transform: translate();
+}
