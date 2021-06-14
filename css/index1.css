@@ -1,0 +1,14 @@
+#app {
+  display: flex;
+  justify-content: space-between;
+}
+#app #box1 {
+  width: 300px;
+  height: 400px;
+  background-color: #dff;
+}
+#app #box1 {
+  width: 300px;
+  height: 400px;
+  background-color: pink;
+}
